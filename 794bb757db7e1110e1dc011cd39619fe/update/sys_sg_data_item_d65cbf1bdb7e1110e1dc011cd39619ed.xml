@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Wish List Wish Item</name>
+        <offline_query_condition/>
+        <offline_query_condition_script/>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-02 05:29:40</sys_created_on>
+        <sys_id>d65cbf1bdb7e1110e1dc011cd39619ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Wish List Wish Item</sys_name>
+        <sys_package display_value="Wish List" source="x_snc_wish_list_yy">794bb757db7e1110e1dc011cd39619fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">794bb757db7e1110e1dc011cd39619fe</sys_scope>
+        <sys_update_name>sys_sg_data_item_d65cbf1bdb7e1110e1dc011cd39619ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-02 05:29:40</sys_updated_on>
+        <table>x_snc_wish_list_yy_wish_item</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=d65cbf1bdb7e1110e1dc011cd39619ed"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>d65cbf1bdb7e1110e1dc011cd39619ed</documentkey>
+        <fieldname>description</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-02 05:29:40</sys_created_on>
+        <sys_id>525cbf1bdb7e1110e1dc011cd39619ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-02 05:29:40</sys_updated_on>
+        <tablename>sys_sg_data_item</tablename>
+        <value/>
+    </sys_translated_text>
+</record_update>
